@@ -112,3 +112,7 @@ Displays the relationship between purchase price and monthly income over 2019 an
 ### Dashboard 6
 
 Contains Q&A sections for interacting with the reports using natural language queries.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
